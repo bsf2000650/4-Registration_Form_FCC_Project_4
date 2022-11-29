@@ -32,6 +32,7 @@ input, select{
     border: none;
     height: 25px;
     margin: 5px 0px;
+    color: white;
 }
 textarea{
     width: 100%;
